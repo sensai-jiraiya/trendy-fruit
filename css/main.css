@@ -17,19 +17,3 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
-
-.card-1 {
-  background-color: #e97065;
-}
-
-.card-2 {
-  background-color: #fbd25e;
-}
-
-.card-3 {
-  background-color: #e86033;
-}
-
-h2 {
-  font-famiy: "Rammetto";
-}
