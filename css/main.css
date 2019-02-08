@@ -11,8 +11,21 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  font-family: "Open Sans", san-serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+.card-1 {
+  background-color: #e97065;
+}
+
+.card-2 {
+  background-color: #fbd25e;
+}
+
+.card-3 {
+  background-color: #e86033;
 }
