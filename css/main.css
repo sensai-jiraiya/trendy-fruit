@@ -12,6 +12,9 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   font-family: "Open Sans", san-serif;
+  font-family: "Gravitas One", cursive;
+  font-family: "Rammetto One", cursive;
+  font-family: "Comfortaa", cursive;
 }
 
 *, *::before, *::after {
