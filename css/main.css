@@ -20,3 +20,11 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.first {
+  background-color: #e97065;
+}
+
+.first h2 {
+  font-family: "Rammetto One", cursive;
+}
