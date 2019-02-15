@@ -28,3 +28,6 @@ html {
 .first h2 {
   font-family: "Rammetto One", cursive;
 }
+ body {
+   margin: 0;
+ }
