@@ -28,9 +28,13 @@ html {
 .first h2 {
   font-family: "Rammetto One", cursive;
 }
- body {
+body {
    margin: 0;
  }
+
+p {
+  font-family: "Open Sans", sans-serif;
+}
 
 .second {
   background-color: #fbd25e;
