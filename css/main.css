@@ -31,3 +31,11 @@ html {
  body {
    margin: 0;
  }
+
+.second {
+  background-color: #fbd25e;
+}
+
+.second h2 {
+  font-family: "Gravitas One", cursive;
+}
